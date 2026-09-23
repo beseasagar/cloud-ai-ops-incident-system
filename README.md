@@ -96,6 +96,11 @@ The current automation uses predefined actions, making the project easy to under
                     │ SQLite + Log │
                     └──────────────┘
 ```
+Tech Stack
+Python • FastAPI • Ollama • Llama 3 • SQLite
+
+Project Status
+Prototype: This project is an experimental local AIOps implementation designed to explore AI-assisted incident classification, automation, and logging.
 
 ---
 
